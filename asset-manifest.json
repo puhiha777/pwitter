@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/puhiha777/pwitter/static/css/main.a749d3de.css",
-    "main.js": "/puhiha777/pwitter/static/js/main.f95d48ba.js",
-    "index.html": "/puhiha777/pwitter/index.html",
-    "main.a749d3de.css.map": "/puhiha777/pwitter/static/css/main.a749d3de.css.map",
-    "main.f95d48ba.js.map": "/puhiha777/pwitter/static/js/main.f95d48ba.js.map"
+    "main.css": "/pwitter/static/css/main.a749d3de.css",
+    "main.js": "/pwitter/static/js/main.1c9e21b0.js",
+    "index.html": "/pwitter/index.html",
+    "main.a749d3de.css.map": "/pwitter/static/css/main.a749d3de.css.map",
+    "main.1c9e21b0.js.map": "/pwitter/static/js/main.1c9e21b0.js.map"
   },
   "entrypoints": [
     "static/css/main.a749d3de.css",
-    "static/js/main.f95d48ba.js"
+    "static/js/main.1c9e21b0.js"
   ]
 }
